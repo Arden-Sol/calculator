@@ -19,3 +19,7 @@ function divide_premium(a, b) {
 }//free
 
 // 무료 버전
+
+const square = (a) => {
+  return a * a;
+};
