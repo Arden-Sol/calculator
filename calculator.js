@@ -9,6 +9,6 @@ function multifly(a, b) {
 }
 //코드 추가
 // 최신 커밋 수정하기
-function divide(a, b) {
+function divide_premium(a, b) {
   return a / b;
 }
