@@ -1,9 +1,14 @@
+//덧셈
 function add(a, b) {
   return a + b;
 }
+
+//뺄셈
 function subtract(a, b) {
   return a - b;
 }
+
+//곱셈
 function multifly(a, b) {
   return a * b;
 }
