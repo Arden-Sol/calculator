@@ -7,3 +7,4 @@ function subtract(a, b) {
 function multifly(a, b) {
   return a * b;
 }
+//코드 추가
