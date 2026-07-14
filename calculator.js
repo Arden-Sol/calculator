@@ -16,6 +16,6 @@ function multifly(a, b) {
 // 최신 커밋 수정하기
 function divide_premium(a, b) {
   return a / b;
-}
+}//free
 
 // 무료 버전
