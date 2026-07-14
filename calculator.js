@@ -12,3 +12,5 @@ function multifly(a, b) {
 function divide(a, b) {
   return a / b;
 }
+
+// 무료 버전
