@@ -23,3 +23,7 @@ function divide_premium(a, b) {
 const square = (a) => {
   return a * a;
 };
+
+const say = () => {
+  console.log('haha');
+};
